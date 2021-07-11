@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Hoy llueve?</string>
+    <string name="rank">Rank</string>
+    <string name="icc_ranking_of_players">ICC Ranking of Players:</string>
+    <string name="player">Player</string>
+    <string name="team">Team</string>
+    <string name="points">Points</string>
+    <string name="_1">1</string>
+    <string name="hora">Hora</string>
+    <string name="Probabilidad" />
+    <string name="virat_kohli">Virat Kohli</string>
+    <string name="ind">IND</string>
+    <string name="_895">895</string>
+    <string name="Hora" />
+    <string name="ver_clima_el_resto_del_dia">Ver clima el resto del dia</string>
+    <string name="textview">TextView</string>
 </resources>
