@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
                         fechaView.text = hoy
 
                         if (rain.toInt() == 0){
-                            textView.text = "Hoy no llueve. \n 0%"
+                            textView.text = "Hoy no llueve."
                             imageView.setImageResource(R.drawable.sol)
                         }
                         else if (rain.toInt() in 1..25){

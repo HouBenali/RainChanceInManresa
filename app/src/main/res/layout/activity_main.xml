@@ -62,7 +62,7 @@
         android:id="@+id/button"
         android:layout_width="190dp"
         android:layout_height="79dp"
-        android:text="@string/ver_clima_el_resto_del_dia"
+        android:text="Más información"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
